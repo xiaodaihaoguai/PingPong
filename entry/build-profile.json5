@@ -1,0 +1,7 @@
+{
+  "api": {
+    "compatibleVersion": "5.0.0(12)",
+    "targetVersion": "5.0.0(12)",
+    "releaseType": "Release"
+  }
+}

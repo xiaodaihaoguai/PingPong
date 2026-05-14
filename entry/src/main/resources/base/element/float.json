@@ -1,0 +1,10 @@
+{
+  "float": [
+    { "name": "font_size_title", "value": "32fp" },
+    { "name": "font_size_body", "value": "18fp" },
+    { "name": "font_size_score", "value": "120fp" },
+    { "name": "font_size_small", "value": "14fp" },
+    { "name": "score_button_height", "value": "64vp" },
+    { "name": "action_button_height", "value": "44vp" }
+  ]
+}

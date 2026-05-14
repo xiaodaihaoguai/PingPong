@@ -1,0 +1,23 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "Ping Pong Voice Score Keeper" },
+    { "name": "ability_desc", "value": "Main entry for Ping Pong Score" },
+    { "name": "ability_label", "value": "乒乓计分" },
+    { "name": "app_name", "value": "乒乓计分" },
+    { "name": "page_scoreboard", "value": "计分板" },
+    { "name": "page_setup", "value": "比赛设置" },
+    { "name": "page_history", "value": "比赛记录" },
+    { "name": "btn_my_point", "value": "我得分" },
+    { "name": "btn_opponent_point", "value": "对方得分" },
+    { "name": "btn_undo", "value": "撤销" },
+    { "name": "btn_new_match", "value": "新比赛" },
+    { "name": "btn_start", "value": "开始比赛" },
+    { "name": "btn_next_game", "value": "下一局" },
+    { "name": "btn_confirm_swap", "value": "确认换场" },
+    { "name": "title_swap_sides", "value": "交换场地" },
+    { "name": "label_game", "value": "局" },
+    { "name": "label_best_of", "value": "局制" },
+    { "name": "label_game_score", "value": "局分" },
+    { "name": "hint_player_name", "value": "输入姓名" }
+  ]
+}

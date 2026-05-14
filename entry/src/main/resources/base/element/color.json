@@ -1,0 +1,12 @@
+{
+  "color": [
+    { "name": "bg_primary", "value": "#0F0F23" },
+    { "name": "bg_card", "value": "#1A1A2E" },
+    { "name": "bg_button", "value": "#222244" },
+    { "name": "text_primary", "value": "#FFFFFF" },
+    { "name": "text_secondary", "value": "#AAAAAA" },
+    { "name": "text_hint", "value": "#666666" },
+    { "name": "accent_left", "value": "#4ECDC4" },
+    { "name": "accent_right", "value": "#E94560" }
+  ]
+}
